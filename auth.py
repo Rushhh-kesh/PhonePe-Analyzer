@@ -2,9 +2,11 @@
 import streamlit as st
 
 USER_CREDENTIALS = {
-    "FroTest": "FroTest123",
-    "ForRushi": "ForRushi",
-    "ForFriends": "ForFriends123"
+    "FroTest24": "FroTest24",
+    "ForRushi": "ForRushi24",
+    "ForFriends": "ForFriends123",
+    "AskedRushi?": "HeSaidYes",
+    "hMMMMM":"HHHHHm"
 }
 
 def login():
